@@ -102,9 +102,9 @@ social:
   type                   : "Organization"
   name                   : "速倍實業 Superb Home"
   links:
-    - "https://www.facebook.com/superbhome.tw"
-    - "https://www.instagram.com/superbhome.tw"
-    - "https://line.me/ti/p/@superbhome"
+    - "https://www.facebook.com/superbhome.com.tw/"
+    - "https://www.instagram.com/superbhome.com.tw/"
+    - "https://line.me/R/ti/p/@xrx6756m"
 
 # Analytics
 analytics:
@@ -127,29 +127,29 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "官方網站"
       icon: "fas fa-fw fa-link"
-      url: "/"
+      url: "https://sites.google.com/view/cleanuptw"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/superbhome.tw"
+      url: "https://www.facebook.com/superbhome.com.tw/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/superbhome.tw"
+      url: "https://www.instagram.com/superbhome.com.tw/"
     - label: "LINE"
       icon: "fab fa-fw fa-line"
-      url: "https://line.me/ti/p/@superbhome"
+      url: "https://line.me/R/ti/p/@xrx6756m"
 
 # Site Footer
 footer:
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/superbhome.tw"
+      url: "https://www.facebook.com/superbhome.com.tw/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/superbhome.tw"
+      url: "https://www.instagram.com/superbhome.com.tw/"
     - label: "LINE"
       icon: "fab fa-fw fa-line"
-      url: "https://line.me/ti/p/@superbhome"
+      url: "https://line.me/R/ti/p/@xrx6756m"
   since: "1973"
 
 
